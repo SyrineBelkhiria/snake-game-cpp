@@ -1,7 +1,6 @@
 # Jeu Snake – C++
 
-Implémentation du jeu Snake en langage C++ avec interface graphique.
-
+ce que fait l’application, ex. implémentation du jeu Snake en C++, déplacement du serpent, croissance lorsqu’il mange une proie, gestion des collisions, renforcement de la logique algorithmique
 ## Fonctionnalités
 - Déplacement du serpent via le clavier
 - Gestion des collisions
